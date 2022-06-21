@@ -13,7 +13,10 @@ design:
     image: csr-cover.jpg
 hero_media: welcome.jpg
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+<!--StartFragment-->
+
+The Fang Lab takes inspirations from organic synthesis to develop new chemistry to meet the demands for topology, connectivity, and functionality in the research area of crystalline porous materials, in particular, covalent organic frameworks.
+
+<!--EndFragment-->
